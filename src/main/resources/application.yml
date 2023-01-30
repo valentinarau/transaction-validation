@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /api
+  port: 8080 # 28852
+  error:
+    include-message: always
+    include-binding-errors: always
